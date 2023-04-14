@@ -1,2 +1,1 @@
-# eldenringsite
-Elden Ring Site
+# Elden Ring Site
